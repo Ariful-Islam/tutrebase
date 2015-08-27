@@ -1,1 +1,1 @@
-This is master branch of tutrebase. 
+This is master branch of tutbranch. Now it is for branch1. 
