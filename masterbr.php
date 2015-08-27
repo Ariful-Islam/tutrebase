@@ -1,1 +1,1 @@
-This is master branch of tutbranch. Now it is for branch1. 
+This is master branch of tutbranch2. Now it is for branch2. 
